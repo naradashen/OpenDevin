@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:mantic-20240216
 
 # install basic packages
 RUN apt-get update && apt-get install -y \
