@@ -1,4 +1,4 @@
-FROM ubuntu:mantic-20240216
+FROM ubuntu:23.10
 
 # install basic packages
 RUN apt-get update && apt-get install -y \
