@@ -1,4 +1,4 @@
-FROM ubuntu:mantic-20240216
+FROM ubuntu:mantic-20240405
 
 # install basic packages
 RUN apt-get update && apt-get install -y \
