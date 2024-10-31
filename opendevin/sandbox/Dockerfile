@@ -1,4 +1,4 @@
-FROM ubuntu:mantic-20240530
+FROM ubuntu:noble-20241009
 
 # install basic packages
 RUN apt-get update && apt-get install -y \
