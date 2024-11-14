@@ -1,4 +1,4 @@
-FROM ubuntu:mantic-20240530
+FROM ubuntu:noble-20241009
 
 # https://github.com/princeton-nlp/SWE-bench/issues/15#issuecomment-1815392192
 RUN apt-get update && \
