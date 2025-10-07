@@ -1,4 +1,4 @@
-FROM ubuntu:noble-20241009
+FROM ubuntu:24.04
 
 # https://github.com/princeton-nlp/SWE-bench/issues/15#issuecomment-1815392192
 RUN apt-get update && \
