@@ -1,4 +1,4 @@
-FROM ubuntu:noble-20241009
+FROM ubuntu:noble-20251001
 
 # install basic packages
 RUN apt-get update && apt-get install -y \
